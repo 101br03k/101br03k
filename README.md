@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **101br03k/101br03k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Github Stats
+
+
+![](https://github-readme-stats.vercel.app/api?username=101br03k&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=101br03k&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=101br03k&hide=html&theme=tokyonight&layout=compact)

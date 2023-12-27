@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Homepage](https://img.shields.io/badge/-Homepage-1e293b?style=flat-square&logo=github&logoColor=white)
-![Dockge](https://img.shields.io/badge/-Dockge-74c2ff?style=flat-square&logo=github&logoColor=white)
-![Portainer](https://img.shields.io/badge/-Portainer-13bef9?style=flat-square&logo=github&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/-PiHole-ff0000?style=flat-square&logo=github&logoColor=white)
-![Wetty](https://img.shields.io/badge/-Wetty-272134?style=flat-square&logo=github&logoColor=white)
+![Dockge](https://img.shields.io/badge/-Dockge-74c2ff?style=flat-square&logo=dockge&logoColor=white)
+![Portainer](https://img.shields.io/badge/-Portainer-13bef9?style=flat-square&logo=portainer&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/-PiHole-ff0000?style=flat-square&logo=pihole&logoColor=white)
+![Wetty](https://img.shields.io/badge/-Wetty-272134?style=flat-square&logo=wetty&logoColor=white)
 
 ### Deprecated From Tech Stack
 ![RPi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)

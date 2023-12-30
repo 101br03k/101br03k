@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 ## Github Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=101br03k&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=101br03k&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=101br03k&hide=html&theme=tokyonight&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=101br03k&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=101br03k&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=101br03k&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=101br03k&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=101br03k&theme=radical)

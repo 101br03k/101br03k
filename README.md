@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Age](https://img.shields.io/badge/Age-20-blue)
+![Age](https://img.shields.io/badge/Age-21-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=101br03k)
 ![Arch](https://img.shields.io/badge/-I_use_Arch_btw-1793D1?logo=archlinux&logoColor=white)
 

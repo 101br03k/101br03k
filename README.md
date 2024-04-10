@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ![Age](https://img.shields.io/badge/Age-21-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=101br03k)
 ![Arch](https://img.shields.io/badge/-I_use_Arch_btw-1793D1?logo=archlinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/also_doing-gist-blue?link=https%3A%2F%2Fgist.github.com%2F101br03k%2F)
+
+
 
 ## My Tech Stack
 

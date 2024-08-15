@@ -30,21 +30,14 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ### Homelab
-![HP G4 Thin Client](https://img.shields.io/badge/-HPG4ThinClient-0096d6?style=flat-square&logo=hp&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Homepage](https://img.shields.io/badge/-Homepage-1e293b?style=flat-square&logo=homepage&logoColor=white)
 ![Portainer](https://img.shields.io/badge/-Portainer-13bef9?style=flat-square&logo=portainer&logoColor=white)
 ![Dockge](https://img.shields.io/badge/-Dockge-74c2ff?style=flat-square&logo=dockge&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/-PiHole-ff0000?style=flat-square&logo=pihole&logoColor=white)
-![Wetty](https://img.shields.io/badge/-Wetty-272134?style=flat-square&logo=wetty&logoColor=white)
 ![Dozzle](https://img.shields.io/badge/-Dozzle-ffdd57?style=flat-square&logo=dozzle&logoColor=white)
 
-### Deprecated From Tech Stack
-![RPi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Traefik](https://img.shields.io/badge/-Traefik-00ADD8?style=flat-square&logo=traefik&logoColor=white)
-![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ## Github Stats
 

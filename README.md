@@ -1,5 +1,7 @@
-
+<!--
 ### Hi there 👋
+-->
+
 <!--
 **101br03k/101br03k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Age](https://img.shields.io/badge/Age-21-blue)
 ![ProfileViews](https://komarev.com/ghpvc/?username=101br03k)
 ![Arch](https://img.shields.io/badge/-I_use_Arch_btw-1793D1?logo=archlinux&logoColor=white)
@@ -47,3 +50,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=101br03k&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=101br03k&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=101br03k&theme=radical)
+-->
+
+![metrics](https://raw.githubusercontent.com/101br03k/101br03k/refs/heads/main/github-metrics.svg)

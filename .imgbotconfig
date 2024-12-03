@@ -1,3 +1,5 @@
-"ignoredFiles": [
-    "github-metrics.svg",
-]
+{
+    "ignoredFiles": [
+        "github-metrics.svg",
+    ]
+}
